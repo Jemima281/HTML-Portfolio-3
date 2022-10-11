@@ -1,0 +1,10 @@
+Position:
+
+1. Relative
+
+assests
+loadImage(./assests/coin.png)
+sketch.js
+
+2. Absolute
+You. Main object
